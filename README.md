@@ -10,4 +10,3 @@ pyspider quick start
 - start mysql: `docker run --name mysql -d -v /data/mysql:/var/lib/mysql -e MYSQL_ALLOW_EMPTY_PASSWORD=yes mysql:latest`
 - start rabbitmq: `docker run --name rabbitmq -d rabbitmq:latest`
 - `docker-compose up` and done!
-```
